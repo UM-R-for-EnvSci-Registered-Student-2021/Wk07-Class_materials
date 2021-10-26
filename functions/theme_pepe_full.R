@@ -1,4 +1,4 @@
-theme_venla <- function(base_size = 11, 
+theme_pepe_full <- function(base_size = 11, 
                        base_family = "sans",
                        base_line_size = base_size/25, 
                        base_rect_size = base_size/25){
